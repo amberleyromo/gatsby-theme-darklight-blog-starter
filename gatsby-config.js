@@ -1,3 +1,6 @@
 module.exports = {
-  __experimentalThemes: [`gatsby-theme-darklight-blog`]
+  __experimentalThemes: [`gatsby-theme-darklight-blog`],
+  siteMetadata: {
+    title: `amberley dot blog`
+  }
 };
