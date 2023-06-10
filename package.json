@@ -8,7 +8,7 @@
     "build": "gatsby build"
   },
   "dependencies": {
-    "gatsby": "^2.3.23",
+    "gatsby": "^4.25.7",
     "gatsby-theme-darklight-blog": "^0.0.12",
     "react": "^16.8.6",
     "react-dom": "^16.8.6"
